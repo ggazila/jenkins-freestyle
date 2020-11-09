@@ -40,6 +40,7 @@
     </dependencies>
 
     <build>
+        <finalName>jenkins-freestyle</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
